@@ -1,1 +1,1 @@
-A simple notebook for demo on Kriging
+## A simple notebook for demo on Kriging
